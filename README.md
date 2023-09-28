@@ -1,5 +1,5 @@
 # PythonLibraryManagementSystem
-Library Management System made using python.
+Library Management System created using python.
 
 
 
